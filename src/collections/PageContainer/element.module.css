@@ -1,0 +1,7 @@
+.main {
+    background-image: url(../../next/images/background.png);
+    background-size: cover;
+    height: 100vh;
+    width: 80%;
+    margin: auto;
+}

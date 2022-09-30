@@ -1,10 +1,8 @@
-import './App.css';
+import { PageContainer } from './collections/index.js'
 
 function App() {
   return (
-    <div>
-      <h1>This is it</h1>
-    </div>
+    <PageContainer />
   );
 }
 
