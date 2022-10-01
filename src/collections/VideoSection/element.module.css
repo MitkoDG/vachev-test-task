@@ -1,9 +1,15 @@
 
 .video {
     width: 100%;
+    max-width: fit-content;
     height: auto;
-    background-image: url(../../next/images/video.png);
-    background-size: contain;
-    background-repeat: no-repeat;
     border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.video img {
+    width: 90%;
+    align-items: center;
 }
