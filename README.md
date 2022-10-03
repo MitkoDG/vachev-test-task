@@ -1,4 +1,4 @@
-# Build from a picture task
+# Task - Build from a picture 
 
 [**Demo of the React App**](https://vachev-task.dimitargegov.com/)
 
