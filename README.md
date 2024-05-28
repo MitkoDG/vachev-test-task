@@ -1,4 +1,4 @@
-# Task - Build from a picture 
+# Task - Create a website based on a picture.
 
 [**Demo of the React App**](https://vachev.dimitargegov.website/)
 
